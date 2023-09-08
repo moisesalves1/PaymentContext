@@ -3,3 +3,13 @@ D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentConte
 D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.AssemblyInfoInputs.cache
 D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.AssemblyInfo.cs
 D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.deps.json
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.dll
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.pdb
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Shared.dll
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Shared.pdb
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.CopyComplete
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.dll
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\refint\PaymentContext.Domain.dll
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.pdb
+D:\Dev\dotnet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\ref\PaymentContext.Domain.dll
